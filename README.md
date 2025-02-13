@@ -1,7 +1,8 @@
 # scGeneRAI
 
 Same as the original but it's actually installable. Original creators somehow weren't interested in having people install their package nor in answering or even looking at github issues.
-Please cite [our paper](https://academic.oup.com/nar/article/51/4/e20/6984592?login=false) 
+
+Please cite [our paper](https://academic.oup.com/nar/article/51/4/e20/6984592?login=false) (or don't)
 
 ```python
   from scGeneRAI import scGeneRAI
